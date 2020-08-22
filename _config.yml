@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I'm currently a direct PhD student in Electrical Engineering at Virginia Tech. I graduated with a B.S.E.E. from West Virginia University in 2019, with minors in Math & Physics. I'm working with Wireless@VT as a GRA, where I have two major fields of study: direction of arrival estimation & learning techniques for cognitive radar. In my courses I focus on theoretical classes, namely real analysis and statistical inference."
   location         : "Blacksburg, VA"
-  employer         : Virginia Tech
+  employer         : "Virginia Tech"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
