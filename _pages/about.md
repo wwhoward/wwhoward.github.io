@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+You found my work-in-progress personal website! Congratulations! Please feel free to look around but nothing here is complete. Cheers! 
+=====
+
 Bio
 =====
 I'm a West Virginia native, born and raised in Morgantown. I completed my undergrad years at West Virginia University in 2019, graduating with a B.S. in Electrical Engineering and minors in Math and Physics. In my free time during undergrad I participated in student org leadership, namely the WVU Amateur Radio Club (which was my pride and joy). I found great reward in building a very old club (established circa 1912) which had somewhat fallen into decay into one of the premier student orgs at WVU. This was capped off nicely when ARC was named the 2018-2019 WVU Outstanding Organization. 
