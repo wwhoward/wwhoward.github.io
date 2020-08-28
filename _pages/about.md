@@ -13,11 +13,11 @@ You found my work-in-progress personal website! Congratulations! Please feel fre
 
 Education
 =====
-PhD in Electrical Engineering (Wireless Communications), <b>Virginia Tech</b>, in progress
-Advisor: <a href="https://scholar.google.com/citations?user=smm3MNcAAAAJ&hl=en">Dr. R. Buehrer</a>
-
-BS in Electrical Engineering, <b>West Virginia University</b>, May 2019
-Advisor: <a href="http://community.wvu.edu/~mcvalenti/">Dr. M.C. Valenti</a>
+PhD in Electrical Engineering (Wireless Communications), <b>Virginia Tech</b>, in progress <br>
+Advisor: <a href="https://scholar.google.com/citations?user=smm3MNcAAAAJ&hl=en">Dr. R. Buehrer</a> <br>
+<br>
+BS in Electrical Engineering, <b>West Virginia University</b>, May 2019<br>
+Advisor: <a href="http://community.wvu.edu/~mcvalenti/">Dr. M.C. Valenti</a><br>
 
 Contact
 =====
